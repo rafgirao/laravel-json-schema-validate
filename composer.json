@@ -1,16 +1,16 @@
 {
-  "name": "kojirock5260/laravel-json-schema-validate",
+  "name": "rafgirao/laravel-json-schema-validate",
   "description": "json schema for request and response",
   "keywords": ["laravel", "json schema", "api"],
   "license": "MIT",
   "authors": [
     {
-      "name": "kojirock5260",
-      "email": "kojirock5260@gmail.com"
+      "name": "Rafael Girao",
+      "email": "rgiraon@gmail.com"
     }
   ],
   "require": {
-    "php": "^8",
+    "php": "^8.0",
     "justinrainbow/json-schema": "^5.2.8",
     "illuminate/support":        "^5.8|^6.0|^7.0|^8.0",
     "illuminate/http":           "^5.8|^6.0|^7.0|^8.0",
